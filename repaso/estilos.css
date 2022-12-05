@@ -1,0 +1,16 @@
+ /*comentario css*/
+ #parrafo {
+     color: aqua;
+ }
+
+ .clase-propia{
+     color: brown;
+ }
+
+ ol li{
+     color: rgb(8, 255, 173);
+ }
+
+ul li{
+    color: blue;
+}
